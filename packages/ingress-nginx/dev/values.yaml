@@ -1,4 +1,6 @@
 controller:
+  extraArgs:
+    enable-ssl-passthrough: ""
   config:
     hsts: 'false'
   service:
